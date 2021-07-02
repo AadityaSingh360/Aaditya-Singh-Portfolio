@@ -137,6 +137,23 @@ line-height: 2;
   border-radius: 8%;
   margin-right: 30px;
 }
+
+.arproject{
+  width: 25%;
+  height: 400px;
+  float: left;
+  border-radius: 8%;
+  margin-right: 30px;
+}
+
+.chatapp{
+  width: 25%;
+  height: 400px;
+  float: right;
+  border-radius: 8%;
+  margin-right: 30px;
+}
+
 a:hover
 {
   color: #EAF6F6;
